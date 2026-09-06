@@ -85,7 +85,7 @@ CSV  (passengers)──┘
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 ### Requirements
 ```bash
@@ -102,11 +102,11 @@ python pipeline/airlines_pipeline.py
 jupyter notebook pipeline/airlines_pipeline.ipynb
 ```
 
-All outputs are written to `cleaned_data/`. A timestamped log file is created in `logs/`.
+All outputs are written to `cleaned_data/`.
 
 ---
 
-## 🧹 Data Quality Rules
+## Data Quality Rules
 
 | Rule | Rows Affected |
 |---|---|
