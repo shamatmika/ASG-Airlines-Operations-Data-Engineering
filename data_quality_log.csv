@@ -1,0 +1,11 @@
+rule,affected_rows
+Missing or unknown airline labelled Unknown,41
+Exact duplicate flight rows removed,15
+Malformed flight identifiers rejected,0
+Same-origin and destination flights rejected,0
+Missing or invalid timestamps rejected,0
+Overnight arrival dates corrected,1
+Nonpositive or over 12-hour durations rejected,0
+Conflicting repeated flight schedules rejected,0
+Missing or invalid booking status labelled UNKNOWN,75
+Unmatched or rejected bookings,0
